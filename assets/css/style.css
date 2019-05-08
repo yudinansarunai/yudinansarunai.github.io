@@ -1,0 +1,114 @@
+body {
+	 /*#e5e5e5 #E1E8ED OR teal (#00aba9) #eff4ff #F0EAD6 #2E4A62 #005960 #7e7e87 592e29 */
+    background-color: #e5e5e5;
+    /*background-color: blue;*/
+    /*background: url(../img/a.jpg);*/
+	/*background-size: cover;*/
+	/*background-attachment: fixed;*/
+    /*background: linear-gradient(to bottom, #ffca20 0%, #ff6719 100%);*/
+    /*background: linear-gradient(to bottom, #f1ffeb 0%, #f7ffe9 100%);*/
+}
+
+.jumbotron {
+	border-radius: unset;
+	margin: 0;
+}
+
+.nav-item {
+	color: black;
+}
+
+.nav-item:hover {
+	background-color: #e68a00;
+	color: white;
+}
+
+.dropdown-item:hover, .dropdown-item:focus {
+  color: #fff;
+  text-decoration: none;
+  background-color: #343a40;
+}
+
+.img {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boydi {
+	/*border: 1px solid;*/
+	background-color: #fff;
+	/*border-bottom-left-radius: 8px;*/
+	/*border-bottom-right-radius: 8px;*/
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	padding: 20px;
+}
+
+aside.widgets ul {
+    margin: 0;
+    padding: 0;
+}
+
+aside.widgets li {
+    list-style: none;
+    padding: 0;
+    margin:0;
+}
+
+.widget-title {
+  border-bottom: 4px solid #E74C3C;
+  padding-bottom: 4px;
+}
+
+.kaki {
+	/*margin-top: 20px;*/
+	background-color: #fff;
+	/*border-radius: 8px;*/
+	/*border-top-left-radius: 8px;*/
+	/*border-top-right-radius: 8px;*/
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.kakiart {
+	/*margin-top: 20px;*/
+	background-color: #fff;
+	border-radius: 8px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.copyright {
+    padding: 10px 10px 1px 0;
+    font-size: 13px;
+}
+
+.copyright a {
+	/*color: #E74C3C;*/
+	color: black;
+}
+
+.copyright a:hover {
+	/*color: black;*/
+	/*color: #E74C3C;*/
+	color: orange;
+	text-decoration: underline;
+}
+
+.sosmed ul {
+	margin: 10px;
+	/*padding: 0;*/
+}
+
+.sosmed ul li {
+	display: inline-block;
+}
+
+.sosmed ul li a {
+	display: block;
+	padding: 0 0 0 5px;
+	/*color: #e5e5e5;*/
+}
+
+.sosmed ul li a:hover, .kaki ul li a:focus {
+	text-decoration: none;
+    color: black; 
+    /* #E74C3C   #c0392b*/
+}
+
